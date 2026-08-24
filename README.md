@@ -1,5 +1,5 @@
 # Comparing SDD frameworks
-This epository contains three projects built with three SDD frameworks: kiro, openspec, and github spec kit. Each one of them built the same application, based on these instructions: 
+This repository contains three projects built with three SDD frameworks: kiro, openspec, and github spec kit. Each one of them built the same application, based on these instructions: 
 
 - Initial prompt: I am building an application to create and manage cooking recipes. The application should list recipes, organised by different tags, like vegetarian, or vegan; but the tags should be extensible. Each recipe has a name, description, ingredients, number of people and instructions. The application should allow flexible search for recipes, create new recipes, and enable annotations of the recipe. The application is mono-user, and recipes are stored locally. 
 
